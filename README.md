@@ -2,13 +2,11 @@
 
 This is an iTerm2 color scheme based on [Google's Material Design Color Palette](http://www.google.com/design/spec/style/color.html).
 
-## How does it look like?
+![screen](img/screen-mock-1.png)
 
-![screen](img/screen.png)
+![terminal](img/screen-mock-2.png)
 
-![terminal](img/terminal.png)
-
-![terminal2](img/terminal2.png)
+![terminal2](img/screen-mock-3.png)
 
 ![colors](img/colors.png)
 
