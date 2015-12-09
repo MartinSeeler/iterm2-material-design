@@ -18,3 +18,6 @@ This is an iTerm2 color scheme based on [Google's Material Design Color Palette]
 4. Click *Import...*
 5. Select the `material-design-colors.itermcolors` file
 5. Select the *material-design-colors* from *Load Presets...*
+
+
+> Wallpaper used in the screenshots: [softe wallpaper by jivebs](http://jivebs.deviantart.com/art/softe-wallpaper-392758319)
