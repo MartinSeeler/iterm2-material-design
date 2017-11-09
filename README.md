@@ -14,7 +14,7 @@ This is an iTerm2 color scheme based on [Google's Material Design Color Palette]
 
 1. Clone the repo or download the file `material-design-colors.itermcolors`
 2. *iTerm2 > Preferences > Profiles > Colors Tab*
-3. Click *Load Presets...*
+3. Click *Color Presets...*
 4. Click *Import...*
 5. Select the `material-design-colors.itermcolors` file
 5. Select the *material-design-colors* from *Load Presets...*
