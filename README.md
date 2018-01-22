@@ -19,6 +19,8 @@ This is an iTerm2 color scheme based on [Google's Material Design Color Palette]
 5. Select the `material-design-colors.itermcolors` file
 5. Select the *material-design-colors* from *Load Presets...*
 
+If you wish to use these colors for custom terminals / projects, please use the colors from [colors.md](colors.md).
+
 ## Donate
 
 If you wish to donate to the project, please send ETH or ERC20 tokens to [0xA5F0F9a2689da26B2debcC17F3991b3f52711366](https://etherscan.io/address/0xA5F0F9a2689da26B2debcC17F3991b3f52711366)
