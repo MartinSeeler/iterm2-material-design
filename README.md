@@ -12,7 +12,7 @@ This is an iTerm2 color scheme based on [Google's Material Design Color Palette]
 
 ## How to use it
 
-1. Clone the repo or [download the file `material-design-colors.itermcolors`](material-design-colors.itermcolors)
+1. Clone the repo or [download the file `material-design-colors.itermcolors`](https://raw.githubusercontent.com/MartinSeeler/iterm2-material-design/master/material-design-colors.itermcolors)
 2. *iTerm2 > Preferences > Profiles > Colors Tab*
 3. Click *Color Presets...*
 4. Click *Import...*
