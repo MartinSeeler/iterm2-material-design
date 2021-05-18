@@ -28,5 +28,5 @@ If you wish to donate to the project, please send ETH or ERC20 tokens to [0xA5F0
 ## Setup from Screenshots
 - Wallpaper: [softe wallpaper by jivebs](http://jivebs.deviantart.com/art/softe-wallpaper-392758319)
 - ZSH-Prompt: [Pure prompt](https://github.com/sindresorhus/pure) by [Sindre Sorhus](https://github.com/sindresorhus)
-- Font: [Range Mono](https://pilgrimfonts.com/range-mono/) by [Griffin Moore](http://griffinmoore.com/)
+- Font: [Range Mono](https://www.monolithfoundry.com/fonts/range-mono) by [Griffin Moore](http://griffinmoore.com/)
 
