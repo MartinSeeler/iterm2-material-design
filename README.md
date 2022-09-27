@@ -21,9 +21,9 @@ This is an iTerm2 color scheme based on [Google's Material Design Color Palette]
 
 If you wish to use these colors for custom terminals / projects, please use the colors from [colors.md](colors.md).
 
-## Donate
+## Support
 
-If you wish to donate to the project, please send ETH or ERC20 tokens to [0xA5F0F9a2689da26B2debcC17F3991b3f52711366](https://etherscan.io/address/0xA5F0F9a2689da26B2debcC17F3991b3f52711366)
+<a href="https://www.buymeacoffee.com/seeler" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## Setup from Screenshots
 - Wallpaper: [softe wallpaper by jivebs](http://jivebs.deviantart.com/art/softe-wallpaper-392758319)
